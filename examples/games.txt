@@ -1,0 +1,11 @@
+# Time controls for the club's events. Format: name = CONTROL [avg=SECONDS]
+# CONTROL: MOVES/SECONDS[:SECONDS...] for classical, SECONDS+INC for Fischer,
+#          SECONDS dDELAY for Bronstein/delay, SECONDS for sudden death.
+# `check` fails any game whose clock runs out inside 60 moves at its avg.
+# sudden-death is kept on purpose: 8 s a move on 90 s runs out on move 12.
+
+blitz-5-3 = 300+5 avg=5
+rapid-classical = 40/5400:1800+30 avg=45
+bullet = 60+1 avg=1.5
+bronstein-rapid = 900d10 avg=20
+sudden-death = 90 avg=8

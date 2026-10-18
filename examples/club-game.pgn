@@ -1,0 +1,13 @@
+[Event "Club blitz night"]
+[Site "Hall A"]
+[Date "2026.10.17"]
+[Round "3"]
+[White "Ada"]
+[Black "Ben"]
+[Result "*"]
+[TimeControl "300+5"]
+
+1. e4 {[%clk 0:05:00]} 1... e5 {[%clk 0:04:56]} 2. Nf3 {[%clk 0:04:53]}
+2... Nc6 {[%clk 0:04:55]} 3. Bb5 {[%clk 0:04:38]}
+3... a6 {[%clk 0:04:30]} (3... Nf6 {[%clk 0:00:01]} 4. O-O) 4. Ba4 {[%clk 0:04:39]}
+4... Nf6 {[%clk 0:04:20]} 5. O-O {[%clk 0:04:04]} 5... Be7 {[%clk 0:04:00]} *
